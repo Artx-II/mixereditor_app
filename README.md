@@ -8,6 +8,8 @@ There is a folder named "devices" on this repository, inside that you have to cr
 
 Once that is done, you can specify the exact line where the app will modifiy the Gain value of the corresponding Input/Output device, these are optional (you don't have to specify all of them) and only those that are configured in the .json file will show up in the app.
 
+Pull Request for adding official support for your device are welcomed.
+
 ## Json file format
 
 This is an example of how the Json file would be written:
