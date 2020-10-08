@@ -1,0 +1,6 @@
+{
+    "device": "curtana",
+    "mountPartition": "/vendor",
+    "filePath": "/vendor/etc/mixer_paths_wcd937x.xml",
+    "headphoneLines": [ 3003, 3004 ]
+}
